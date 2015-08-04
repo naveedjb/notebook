@@ -1,0 +1,14 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "authors": [
+    "Naveed"
+  ],
+   "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "angular": "~1.3.6",
+    "showdown": "~0.3.1"
+  }
+}
